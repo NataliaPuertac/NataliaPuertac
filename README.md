@@ -7,3 +7,8 @@ Hola!
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual" width="40" height="40" />
   <img src="https://www.lennu.net/wp-content/uploads/2015/11/zeplin_logo-523x510.png" alt=“zeplin” width="40" height="40"/>
   </a> </p>
+  
+  <h3 align="left">Conecta conmigo:</h3>
+<p align="left">
+<a href="(https://www.linkedin.com/in/nataliapuerta/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+</p>
