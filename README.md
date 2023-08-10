@@ -8,7 +8,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual" width="40" height="40" />
-  <img src="https://www.lennu.net/wp-content/uploads/2015/11/zeplin_logo-523x510.png" alt=“zeplin” width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a> </p>
   
   <h2 align="left">Conecta conmigo:</h2>
